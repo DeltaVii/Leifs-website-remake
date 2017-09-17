@@ -1,0 +1,43 @@
+main {
+    background-image: url("img/leifscampus.jpg");
+    padding-top: 40px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.icon-bar {
+    background-color: grey;
+}
+
+.navbar-brand {
+    height:80px;
+}
+
+.navbar-brand >img {
+    height: 100%;
+}
+.navbar-toggle {
+    padding: 10px;
+    margin: 25px 15px 25px 0;
+}
+
+.nav >li >a {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.why {
+    background-color: white;
+}
+
+.why-box {
+    background-color: rgb(227, 227, 227);
+    padding-top: 10px;
+}
+
+.why-box >ul >li {
+    margin: 0;
+    padding: 0;
+}
