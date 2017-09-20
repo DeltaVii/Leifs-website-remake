@@ -2,11 +2,21 @@
 
 /*Global*/
 main {
-    background-image: url("img/leifscampus.jpg");
     padding-top: 40px;
     margin-top: 70px;
 }
 /*end Global*/
+
+
+/*by Page*/
+.index {
+    background-image: url("img/leifscampus.jpg");
+}
+
+.services {
+    background-image: url("img/carshop1.jpg");
+}
+/*end by Page*/
 
 
 
@@ -51,7 +61,7 @@ main {
 /*end Navbar*/
 
 
-
+/*-- INDEX ELEMENT STYLES --*/
 /*Why? boxes*/
 .why {
     background-color: #EEEEEE;
@@ -115,6 +125,38 @@ main {
 
 /*end Why? box*/
 
+.topper {
+    background-color: #EEEEEE;
+    padding: 10px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.tigard {
+    background-color: #EEEEEE;
+    border-radius: 5px;
+}
+.tigard li {
+    font-size: 24px;
+}
+
+.portland {
+    background-color: #EEEEEE;
+    border-radius: 5px;
+}
+.portland li {
+    font-size: 24px;
+}
+
+.claims {
+    background-color: #EEEEEE;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.claims p {
+    font-size: 18px;
+    padding: 0 20px 20px 20px;
+}
 
 
 /*Footer*/
